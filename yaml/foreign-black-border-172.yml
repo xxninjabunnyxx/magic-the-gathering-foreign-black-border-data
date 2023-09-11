@@ -1,0 +1,107 @@
+---
+object: card
+id: 824e0637-4320-4d60-9f34-9d0474f57065
+oracle_id: 01f07ab9-3c3e-4fea-9cd6-543a5b7056b8
+multiverse_ids: []
+tcgplayer_id: 109777
+cardmarket_id: 15348
+name: Roc of Kher Ridges
+printed_name: Rokh des Hauts de Kher
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/824e0637-4320-4d60-9f34-9d0474f57065
+scryfall_uri: https://scryfall.com/card/fbb/172/fr/rokh-des-hauts-de-kher?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.jpg?1539994456
+  normal: https://cards.scryfall.io/normal/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.jpg?1539994456
+  large: https://cards.scryfall.io/large/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.jpg?1539994456
+  png: https://cards.scryfall.io/png/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.png?1539994456
+  art_crop: https://cards.scryfall.io/art_crop/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.jpg?1539994456
+  border_crop: https://cards.scryfall.io/border_crop/front/8/2/824e0637-4320-4d60-9f34-9d0474f57065.jpg?1539994456
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Bird
+oracle_text: Flying
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/824e0637-4320-4d60-9f34-9d0474f57065/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01f07ab9-3c3e-4fea-9cd6-543a5b7056b8&unique=prints
+collector_number: '172'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Andi Rusu
+artist_ids:
+- 2fd69990-7ba4-4c0f-95ef-c7b748570a12
+illustration_id: 61a33177-e985-4996-92e0-ea59af108be7
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23937
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '6.44'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Roc+of+Kher+Ridges&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Roc+of+Kher+Ridges&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Roc+of+Kher+Ridges
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109777?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Roc+of+Kher+Ridges&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Roc+of+Kher+Ridges&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

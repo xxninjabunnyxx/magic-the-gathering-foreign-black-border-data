@@ -1,0 +1,107 @@
+---
+object: card
+id: 937fa336-0539-425e-9de6-7029dc91f105
+oracle_id: b76d1ae6-ad1d-4bac-b4c3-2e03e0e84d9b
+multiverse_ids: []
+tcgplayer_id: 109701
+cardmarket_id: 15460
+name: Bayou
+printed_name: Bayou
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/937fa336-0539-425e-9de6-7029dc91f105
+scryfall_uri: https://scryfall.com/card/fbb/283/fr/bayou?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.jpg?1539996710
+  normal: https://cards.scryfall.io/normal/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.jpg?1539996710
+  large: https://cards.scryfall.io/large/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.jpg?1539996710
+  png: https://cards.scryfall.io/png/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.png?1539996710
+  art_crop: https://cards.scryfall.io/art_crop/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.jpg?1539996710
+  border_crop: https://cards.scryfall.io/border_crop/front/9/3/937fa336-0539-425e-9de6-7029dc91f105.jpg?1539996710
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Swamp Forest
+oracle_text: "({T}: Add {B} or {G}.)"
+colors: []
+color_identity:
+- B
+- G
+keywords: []
+produced_mana:
+- B
+- G
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/937fa336-0539-425e-9de6-7029dc91f105/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab76d1ae6-ad1d-4bac-b4c3-2e03e0e84d9b&unique=prints
+collector_number: '283'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: 8cb160a9-900b-420e-bce8-3a62f689d2c8
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 443
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '670.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bayou&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bayou&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bayou
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109701?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bayou&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bayou&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

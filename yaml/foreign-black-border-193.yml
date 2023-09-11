@@ -1,0 +1,108 @@
+---
+object: card
+id: 64146429-6073-47ee-97c7-334dc5573d83
+oracle_id: 534ce8e2-53a1-407c-9881-d3b5347d43c3
+multiverse_ids: []
+tcgplayer_id: 109724
+cardmarket_id: 15277
+name: Elvish Archers
+printed_name: Archers elfes
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/64146429-6073-47ee-97c7-334dc5573d83
+scryfall_uri: https://scryfall.com/card/fbb/193/fr/archers-elfes?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.jpg?1539993267
+  normal: https://cards.scryfall.io/normal/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.jpg?1539993267
+  large: https://cards.scryfall.io/large/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.jpg?1539993267
+  png: https://cards.scryfall.io/png/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.png?1539993267
+  art_crop: https://cards.scryfall.io/art_crop/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.jpg?1539993267
+  border_crop: https://cards.scryfall.io/border_crop/front/6/4/64146429-6073-47ee-97c7-334dc5573d83.jpg?1539993267
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Elf Archer
+oracle_text: First strike
+power: '2'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/64146429-6073-47ee-97c7-334dc5573d83/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A534ce8e2-53a1-407c-9881-d3b5347d43c3&unique=prints
+collector_number: '193'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: 681091d6-8f99-42e3-99bb-a79aca6519fc
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18293
+penny_rank: 11017
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '35.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elvish+Archers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elvish+Archers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elvish+Archers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109724?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elvish+Archers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elvish+Archers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,105 @@
+---
+object: card
+id: 81dc6d66-b475-4c14-a48a-f99ff4fcbcc3
+oracle_id: 4c15889e-3172-413b-b805-a2b7ad05f636
+multiverse_ids: []
+tcgplayer_id: 109803
+cardmarket_id: 15266
+name: Volcanic Eruption
+printed_name: Eruption volcanique
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3
+scryfall_uri: https://scryfall.com/card/fbb/89/fr/eruption-volcanique?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.jpg?1539998534
+  normal: https://cards.scryfall.io/normal/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.jpg?1539998534
+  large: https://cards.scryfall.io/large/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.jpg?1539998534
+  png: https://cards.scryfall.io/png/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.png?1539998534
+  art_crop: https://cards.scryfall.io/art_crop/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.jpg?1539998534
+  border_crop: https://cards.scryfall.io/border_crop/front/8/1/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3.jpg?1539998534
+mana_cost: "{X}{U}{U}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy X target Mountains. Volcanic Eruption deals damage to each creature
+  and each player equal to the number of Mountains put into a graveyard this way.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/81dc6d66-b475-4c14-a48a-f99ff4fcbcc3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4c15889e-3172-413b-b805-a2b7ad05f636&unique=prints
+collector_number: '89'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: b29b65cc-6ad8-4464-a9e2-d0a8f99f4f0a
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21665
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '2.67'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Volcanic+Eruption&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Volcanic+Eruption&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Volcanic+Eruption
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109803?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Volcanic+Eruption&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Volcanic+Eruption&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

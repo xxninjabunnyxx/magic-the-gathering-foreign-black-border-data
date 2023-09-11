@@ -1,0 +1,19 @@
+---
+object: set
+id: 60648044-9f6a-4961-81af-47a0a94dfac9
+code: fbb
+tcgplayer_id: 1689
+name: Foreign Black Border
+uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+scryfall_uri: https://scryfall.com/sets/fbb
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Afbb&unique=prints
+released_at: '1994-04-01'
+set_type: core
+card_count: 307
+parent_set_code: 3ed
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/3ed.svg?1694404800

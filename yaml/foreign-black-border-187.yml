@@ -1,0 +1,116 @@
+---
+object: card
+id: 8a3ea83c-2978-4a2a-a109-915b9a738a13
+oracle_id: d3a0b660-358c-41bd-9cd2-41fbf3491b1a
+multiverse_ids: []
+tcgplayer_id: 109702
+cardmarket_id: 15271
+name: Birds of Paradise
+printed_name: Oiseaux de paradis
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/8a3ea83c-2978-4a2a-a109-915b9a738a13
+scryfall_uri: https://scryfall.com/card/fbb/187/fr/oiseaux-de-paradis?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.jpg?1539998565
+  normal: https://cards.scryfall.io/normal/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.jpg?1539998565
+  large: https://cards.scryfall.io/large/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.jpg?1539998565
+  png: https://cards.scryfall.io/png/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.png?1539998565
+  art_crop: https://cards.scryfall.io/art_crop/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.jpg?1539998565
+  border_crop: https://cards.scryfall.io/border_crop/front/8/a/8a3ea83c-2978-4a2a-a109-915b9a738a13.jpg?1539998565
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flying
+  {T}: Add one mana of any color.
+power: '0'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Flying
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8a3ea83c-2978-4a2a-a109-915b9a738a13/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad3a0b660-358c-41bd-9cd2-41fbf3491b1a&unique=prints
+collector_number: '187'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: 96b78cb9-847b-428f-a887-e330c2d9f9ee
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 48
+penny_rank: 44
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '70.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Birds+of+Paradise&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Birds+of+Paradise&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Birds+of+Paradise
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109702?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Birds+of+Paradise&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Birds+of+Paradise&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,104 @@
+---
+object: card
+id: 188a6644-0025-4420-a09e-6bf437e8a72b
+oracle_id: 20ae75a7-14ca-4366-af0a-3f3f02159f3f
+multiverse_ids: []
+tcgplayer_id: 109834
+cardmarket_id: 15186
+name: Deathgrip
+printed_name: Poigne de mort
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/188a6644-0025-4420-a09e-6bf437e8a72b
+scryfall_uri: https://scryfall.com/card/fbb/101/fr/poigne-de-mort?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.jpg?1539991779
+  normal: https://cards.scryfall.io/normal/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.jpg?1539991779
+  large: https://cards.scryfall.io/large/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.jpg?1539991779
+  png: https://cards.scryfall.io/png/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.png?1539991779
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.jpg?1539991779
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/188a6644-0025-4420-a09e-6bf437e8a72b.jpg?1539991779
+mana_cost: "{B}{B}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: "{B}{B}: Counter target green spell."
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/188a6644-0025-4420-a09e-6bf437e8a72b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A20ae75a7-14ca-4366-af0a-3f3f02159f3f&unique=prints
+collector_number: '101'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: b23db241-50c7-4505-9784-2f26a224f373
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14086
+prices:
+  usd: '4.99'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deathgrip&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deathgrip&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deathgrip
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109834?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deathgrip&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Deathgrip&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

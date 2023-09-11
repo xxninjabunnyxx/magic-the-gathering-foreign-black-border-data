@@ -1,0 +1,107 @@
+---
+object: card
+id: fbf238c6-552e-41b5-aade-325f3ea1afe7
+oracle_id: 18b1f96f-de35-4f0a-8b0e-81576471fd15
+multiverse_ids: []
+tcgplayer_id: 109763
+cardmarket_id: 15443
+name: Mishra's War Machine
+printed_name: Machine de guerre de Mishra
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/fbf238c6-552e-41b5-aade-325f3ea1afe7
+scryfall_uri: https://scryfall.com/card/fbb/266/fr/machine-de-guerre-de-mishra?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.jpg?1539999771
+  normal: https://cards.scryfall.io/normal/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.jpg?1539999771
+  large: https://cards.scryfall.io/large/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.jpg?1539999771
+  png: https://cards.scryfall.io/png/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.png?1539999771
+  art_crop: https://cards.scryfall.io/art_crop/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.jpg?1539999771
+  border_crop: https://cards.scryfall.io/border_crop/front/f/b/fbf238c6-552e-41b5-aade-325f3ea1afe7.jpg?1539999771
+mana_cost: "{7}"
+cmc: 7.0
+type_line: Artifact Creature — Juggernaut
+oracle_text: |-
+  Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+  At the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.
+power: '5'
+toughness: '5'
+colors: []
+color_identity: []
+keywords:
+- Banding
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fbf238c6-552e-41b5-aade-325f3ea1afe7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18b1f96f-de35-4f0a-8b0e-81576471fd15&unique=prints
+collector_number: '266'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Amy Weber
+artist_ids:
+- c1160787-e72e-4f89-b361-c6864f7a4e3a
+illustration_id: 56b3c0d2-fe59-415b-88fb-0925143e32af
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 22423
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '1.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mishra%27s+War+Machine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mishra%27s+War+Machine&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mishra%27s+War+Machine
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109763?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mishra%27s+War+Machine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mishra%27s+War+Machine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

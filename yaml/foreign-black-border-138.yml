@@ -1,0 +1,108 @@
+---
+object: card
+id: 5c8dec2e-2d1a-48b1-820e-ef19de143c52
+oracle_id: 5446c92f-ff22-4e9b-a2f6-e64c8560c1e0
+multiverse_ids: []
+tcgplayer_id: 109811
+cardmarket_id: 15223
+name: Zombie Master
+printed_name: Maître des zombies
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/5c8dec2e-2d1a-48b1-820e-ef19de143c52
+scryfall_uri: https://scryfall.com/card/fbb/138/fr/ma%C3%AEtre-des-zombies?utm_source=api
+layout: normal
+highres_image: false
+image_status: lowres
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.jpg?1539998173
+  normal: https://cards.scryfall.io/normal/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.jpg?1539998173
+  large: https://cards.scryfall.io/large/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.jpg?1539998173
+  png: https://cards.scryfall.io/png/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.png?1539998173
+  art_crop: https://cards.scryfall.io/art_crop/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.jpg?1539998173
+  border_crop: https://cards.scryfall.io/border_crop/front/5/c/5c8dec2e-2d1a-48b1-820e-ef19de143c52.jpg?1539998173
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Zombie
+oracle_text: |-
+  Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)
+  Other Zombies have "{B}: Regenerate this permanent."
+power: '2'
+toughness: '3'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5c8dec2e-2d1a-48b1-820e-ef19de143c52/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5446c92f-ff22-4e9b-a2f6-e64c8560c1e0&unique=prints
+collector_number: '138'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: 7441c48a-ca5a-415c-ad9d-2839e6e47f5b
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3700
+prices:
+  usd: '18.52'
+  usd_foil: 
+  usd_etched: 
+  eur: '12.78'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zombie+Master&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zombie+Master&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zombie+Master
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109811?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zombie+Master&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zombie+Master&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

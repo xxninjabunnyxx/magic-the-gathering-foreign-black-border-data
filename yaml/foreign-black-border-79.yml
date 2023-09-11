@@ -1,0 +1,110 @@
+---
+object: card
+id: 7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061
+oracle_id: dd520d83-297a-487f-b8f3-4997bbc056e0
+multiverse_ids: []
+tcgplayer_id: 109785
+cardmarket_id: 15256
+name: Serendib Efreet
+printed_name: Efrit de Serendib
+lang: fr
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061
+scryfall_uri: https://scryfall.com/card/fbb/79/fr/efrit-de-serendib?utm_source=api
+layout: normal
+highres_image: false
+image_status: placeholder
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.jpg?1542202975
+  normal: https://cards.scryfall.io/normal/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.jpg?1542202975
+  large: https://cards.scryfall.io/large/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.jpg?1542202975
+  png: https://cards.scryfall.io/png/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.png?1542202975
+  art_crop: https://cards.scryfall.io/art_crop/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.jpg?1542202975
+  border_crop: https://cards.scryfall.io/border_crop/front/7/b/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061.jpg?1542202975
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Efreet
+oracle_text: |-
+  Flying
+  At the beginning of your upkeep, Serendib Efreet deals 1 damage to you.
+power: '3'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 60648044-9f6a-4961-81af-47a0a94dfac9
+set: fbb
+set_name: Foreign Black Border
+set_type: core
+set_uri: https://api.scryfall.com/sets/60648044-9f6a-4961-81af-47a0a94dfac9
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Afbb&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/fbb?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7b0ca1f4-391d-40fc-b53e-ffb6e4d4c061/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Add520d83-297a-487f-b8f3-4997bbc056e0&unique=prints
+collector_number: '79'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: 4bcf35d8-9369-438d-b9e4-9ce7f7aa65ed
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18358
+penny_rank: 5069
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '44.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Serendib+Efreet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Serendib+Efreet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Serendib+Efreet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/109785?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Serendib+Efreet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serendib+Efreet&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
